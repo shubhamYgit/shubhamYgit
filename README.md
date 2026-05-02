@@ -8,7 +8,7 @@
 
 ## About Me
 
-3rd-year Computer Science student at **KIET Group of Institutions, Ghaziabad** , focused on backend engineering and distributed systems. I design and build production-grade systems using Java, Spring Boot, Redis, and PostgreSQL — and compete regularly on LeetCode and Codeforces.
+3rd-year Computer Science student at **KIET Group of Institutions Ghaziabad** , focused on backend engineering and distributed systems. I design and build production-grade systems using Java, Spring Boot, Redis, and PostgreSQL — and compete regularly on LeetCode and Codeforces.
 
 - 🔧 **Building:** Fault-tolerant distributed backends with async job queues and locking primitives
 - 🎯 **Targeting:** Backend / SWE internship and full-time roles at product-first companies
